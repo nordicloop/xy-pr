@@ -2,6 +2,10 @@
 
 Marketing website for **XY PR**, a music public relations and artist marketing agency for distinguished independent artists.
 
+**Live site:** <https://xy-pr.netlify.app/>
+
+[![XY PR home page](images/screenshot.png)](https://xy-pr.netlify.app/)
+
 A fully static site: plain HTML, one CSS file, one JS file, and local image assets. No build step, no framework, no dependencies to install.
 
 ## Pages
@@ -27,6 +31,7 @@ A fully static site: plain HTML, one CSS file, one JS file, and local image asse
 ├── js/main.js              # Nav, mobile menu, accordions, tabs, scroll reveal, form handler
 └── images/
     ├── logo.svg, favicon.svg
+    ├── screenshot.png      # README preview only, not used by the site
     ├── hero-vinyl.svg, program-*.svg, cover-*.svg, ...   # Generated vector graphics
     └── photos/*.jpg        # Photography (Unsplash, 1600px wide)
 ```
