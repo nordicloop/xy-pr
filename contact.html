@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Contact | XY PR</title>
+  <meta name="description" content="Begin the conversation with XY PR. Reserve a private consultation for your music career.">
+  <link rel="stylesheet" href="css/style.css">
+  <link rel="icon" type="image/svg+xml" href="images/favicon.svg">
+</head>
+<body>
+
+  <!-- Navigation -->
+  <nav class="nav">
+    <div class="nav__inner">
+      <a href="index.html" class="nav__logo">
+        <img src="images/logo.svg" alt="" class="nav__logo-img"><span><span class="nav__logo-accent">XY</span> PR</span>
+      </a>
+      <div class="nav__links">
+        <div class="nav__dropdown">
+          <a class="nav__link nav__dropdown-trigger">
+            Strategic Programs
+            <svg viewBox="0 0 12 8" fill="none"><path d="M1 1.5L6 6.5L11 1.5" stroke="currentColor" stroke-width="1.5"/></svg>
+          </a>
+          <div class="nav__dropdown-menu">
+            <a href="career-programs.html" class="nav__dropdown-item">Career Acceleration Programs</a>
+            <a href="vanguard-programs.html" class="nav__dropdown-item">Vanguard Programs</a>
+          </div>
+        </div>
+        <a href="capabilities.html" class="nav__link">Capabilities</a>
+        <a href="our-work.html" class="nav__link">Our Work</a>
+        <a href="contact.html" class="nav__link active">Contact</a>
+      </div>
+      <button class="nav__burger" aria-label="Menu">
+        <span></span><span></span><span></span>
+      </button>
+    </div>
+  </nav>
+
+  <!-- Page Header -->
+  <header class="page-header page-header--photo" style="--photo: url(images/photos/studio-mic.jpg)">
+    <div class="container page-header__inner">
+      <div class="page-header__eyebrow">Get In Touch</div>
+      <h1 class="page-header__title">Contact Us</h1>
+      <p class="page-header__desc">
+        Begin the conversation. Every artist's path is different. Whether you're preparing for a release or considering your next move, we welcome the introduction.
+      </p>
+    </div>
+  </header>
+
+  <!-- Contact Form -->
+  <section class="section">
+    <div class="container">
+      <div class="contact-grid reveal">
+
+        <div>
+          <h2 style="font-size: 1.4rem; margin-bottom: 8px;">Campaign Inquiries</h2>
+          <p class="text-muted" style="margin-bottom: 32px; font-size: 0.95rem;">Interested in working with XY PR? Share your details below, and our team will review your work. If there's alignment, we'll be in touch.</p>
+
+          <form class="contact-form">
+            <div class="form-group">
+              <label for="name">Full Name</label>
+              <input type="text" id="name" name="name" placeholder="Your name" required>
+            </div>
+            <div class="form-group">
+              <label for="email">Email Address</label>
+              <input type="email" id="email" name="email" placeholder="you@example.com" required>
+            </div>
+            <div class="form-group">
+              <label for="role">What best describes you?</label>
+              <select id="role" name="role" required>
+                <option value="" disabled selected>Select one</option>
+                <option value="artist">Artist</option>
+                <option value="manager">Manager</option>
+                <option value="label">Record Label / Executive</option>
+                <option value="agency">Agency / Team Member</option>
+                <option value="other">Other</option>
+              </select>
+            </div>
+            <div class="form-group">
+              <label for="link">Music Link</label>
+              <input type="url" id="link" name="link" placeholder="Spotify, SoundCloud, YouTube, etc.">
+            </div>
+            <div class="form-group">
+              <label for="message">Tell us about your project</label>
+              <textarea id="message" name="message" placeholder="What are you working on? What are your goals?"></textarea>
+            </div>
+            <button type="submit" class="btn btn--primary" style="width: 100%;">Request Consultation</button>
+          </form>
+        </div>
+
+        <div class="contact-info">
+          <img src="images/photos/studio-desk.jpg" alt="Recording studio desk" class="contact-info__art">
+          <div style="padding: 40px 32px; background: var(--color-bg-card); border: 1px solid var(--color-border);">
+            <h3 style="font-size: 1.1rem; margin-bottom: 24px;">Before You Reach Out</h3>
+            <p class="text-muted" style="font-size: 0.92rem; line-height: 1.8; margin-bottom: 16px;">
+              Share your details below, and our team will review your work. If there's alignment, we'll be in touch to continue the conversation.
+            </p>
+            <p class="text-muted" style="font-size: 0.92rem; line-height: 1.8;">
+              Not every artist or project is the right fit &mdash; and that's by design.
+            </p>
+          </div>
+
+          <div class="contact-info__item">
+            <div class="contact-info__label">Email</div>
+            <div class="contact-info__value">info@xypr.com</div>
+          </div>
+
+          <div class="contact-info__item">
+            <div class="contact-info__label">Hours</div>
+            <div class="contact-info__value">Mon &ndash; Fri, 9am &ndash; 6pm EST</div>
+          </div>
+
+          <div class="contact-info__item">
+            <div class="contact-info__label">Response Time</div>
+            <div class="contact-info__value">We review all inquiries within 48 hours</div>
+          </div>
+        </div>
+
+      </div>
+    </div>
+  </section>
+
+  <!-- Footer -->
+  <footer class="footer">
+    <div class="container">
+      <div class="footer__inner">
+        <div class="footer__links">
+          <a href="about.html" class="footer__link">About Us</a>
+          <a href="faq.html" class="footer__link">FAQ</a>
+          <a href="terms.html" class="footer__link">Terms of Use</a>
+          <a href="privacy.html" class="footer__link">Privacy Policy</a>
+        </div>
+        <p class="footer__copy">&copy; 2026 XY PR. All rights reserved.</p>
+      </div>
+    </div>
+  </footer>
+
+  <script src="js/main.js"></script>
+</body>
+</html>

@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450"><defs>
+  <linearGradient id="gV" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#a78bfa"/><stop offset="1" stop-color="#6d3fe0"/></linearGradient>
+  <radialGradient id="rV" cx="50%" cy="50%" r="60%"><stop offset="0" stop-color="#8b5cf6" stop-opacity=".35"/><stop offset="1" stop-color="#0f0d1a" stop-opacity="0"/></radialGradient>
+</defs>
+<rect width="800" height="450" fill="#0b0a12"/><rect width="800" height="450" fill="url(#rV)"/>
+<g transform="translate(400,225)">
+<polygon points="0,-190 165,-95 165,95 0,190 -165,95 -165,-95" fill="none" stroke="#8b5cf6" stroke-opacity="0.15" stroke-width="2"/><polygon points="0,-150 130,-75 130,75 0,150 -130,75 -130,-75" fill="none" stroke="#8b5cf6" stroke-opacity="0.27" stroke-width="2"/><polygon points="0,-110 96,-55 96,55 0,110 -96,55 -96,-55" fill="none" stroke="#8b5cf6" stroke-opacity="0.39" stroke-width="2"/><polygon points="0,-70 61,-35 61,35 0,70 -61,35 -61,-35" fill="none" stroke="#8b5cf6" stroke-opacity="0.51" stroke-width="2"/>
+<polygon points="0,-40 35,-20 35,20 0,40 -35,20 -35,-20" fill="url(#gV)"/>
+</g>
+<g transform="translate(60,400)"><rect x="2.8" y="12.0" width="5.7" height="6.0" rx="2.8" fill="url(#gV)" opacity="0.50"/>
+<rect x="14.2" y="10.3" width="5.7" height="9.4" rx="2.8" fill="url(#gV)" opacity="0.59"/>
+<rect x="25.5" y="10.5" width="5.7" height="9.1" rx="2.8" fill="url(#gV)" opacity="0.63"/>
+<rect x="36.8" y="9.4" width="5.7" height="11.2" rx="2.8" fill="url(#gV)" opacity="0.67"/>
+<rect x="48.2" y="9.0" width="5.7" height="12.0" rx="2.8" fill="url(#gV)" opacity="0.70"/>
+<rect x="59.5" y="8.1" width="5.7" height="13.8" rx="2.8" fill="url(#gV)" opacity="0.72"/>
+<rect x="70.8" y="9.3" width="5.7" height="11.4" rx="2.8" fill="url(#gV)" opacity="0.75"/>
+<rect x="82.2" y="7.3" width="5.7" height="15.4" rx="2.8" fill="url(#gV)" opacity="0.77"/>
+<rect x="93.5" y="5.4" width="5.7" height="19.3" rx="2.8" fill="url(#gV)" opacity="0.79"/>
+<rect x="104.8" y="8.4" width="5.7" height="13.3" rx="2.8" fill="url(#gV)" opacity="0.81"/>
+<rect x="116.2" y="4.9" width="5.7" height="20.2" rx="2.8" fill="url(#gV)" opacity="0.83"/>
+<rect x="127.5" y="7.9" width="5.7" height="14.2" rx="2.8" fill="url(#gV)" opacity="0.85"/>
+<rect x="138.8" y="8.0" width="5.7" height="14.0" rx="2.8" fill="url(#gV)" opacity="0.87"/>
+<rect x="150.2" y="8.3" width="5.7" height="13.4" rx="2.8" fill="url(#gV)" opacity="0.88"/>
+<rect x="161.5" y="7.3" width="5.7" height="15.4" rx="2.8" fill="url(#gV)" opacity="0.90"/>
+<rect x="172.8" y="2.7" width="5.7" height="24.6" rx="2.8" fill="url(#gV)" opacity="0.91"/>
+<rect x="184.2" y="2.5" width="5.7" height="25.1" rx="2.8" fill="url(#gV)" opacity="0.92"/>
+<rect x="195.5" y="4.7" width="5.7" height="20.7" rx="2.8" fill="url(#gV)" opacity="0.93"/>
+<rect x="206.8" y="3.1" width="5.7" height="23.7" rx="2.8" fill="url(#gV)" opacity="0.94"/>
+<rect x="218.2" y="2.8" width="5.7" height="24.4" rx="2.8" fill="url(#gV)" opacity="0.95"/>
+<rect x="229.5" y="7.4" width="5.7" height="15.2" rx="2.8" fill="url(#gV)" opacity="0.96"/>
+<rect x="240.8" y="6.8" width="5.7" height="16.4" rx="2.8" fill="url(#gV)" opacity="0.97"/>
+<rect x="252.2" y="2.7" width="5.7" height="24.7" rx="2.8" fill="url(#gV)" opacity="0.98"/>
+<rect x="263.5" y="0.7" width="5.7" height="28.6" rx="2.8" fill="url(#gV)" opacity="0.98"/>
+<rect x="274.8" y="2.0" width="5.7" height="26.1" rx="2.8" fill="url(#gV)" opacity="0.99"/>
+<rect x="286.2" y="4.0" width="5.7" height="22.0" rx="2.8" fill="url(#gV)" opacity="0.99"/>
+<rect x="297.5" y="3.5" width="5.7" height="23.0" rx="2.8" fill="url(#gV)" opacity="0.99"/>
+<rect x="308.8" y="6.6" width="5.7" height="16.8" rx="2.8" fill="url(#gV)" opacity="1.00"/>
+<rect x="320.2" y="4.0" width="5.7" height="22.0" rx="2.8" fill="url(#gV)" opacity="1.00"/>
+<rect x="331.5" y="2.4" width="5.7" height="25.2" rx="2.8" fill="url(#gV)" opacity="1.00"/>
+<rect x="342.8" y="4.7" width="5.7" height="20.7" rx="2.8" fill="url(#gV)" opacity="1.00"/>
+<rect x="354.2" y="4.1" width="5.7" height="21.8" rx="2.8" fill="url(#gV)" opacity="1.00"/>
+<rect x="365.5" y="7.6" width="5.7" height="14.8" rx="2.8" fill="url(#gV)" opacity="1.00"/>
+<rect x="376.8" y="7.4" width="5.7" height="15.3" rx="2.8" fill="url(#gV)" opacity="0.99"/>
+<rect x="388.2" y="7.6" width="5.7" height="14.7" rx="2.8" fill="url(#gV)" opacity="0.99"/>
+<rect x="399.5" y="1.5" width="5.7" height="27.0" rx="2.8" fill="url(#gV)" opacity="0.99"/>
+<rect x="410.8" y="6.1" width="5.7" height="17.8" rx="2.8" fill="url(#gV)" opacity="0.98"/>
+<rect x="422.2" y="4.6" width="5.7" height="20.8" rx="2.8" fill="url(#gV)" opacity="0.98"/>
+<rect x="433.5" y="6.3" width="5.7" height="17.3" rx="2.8" fill="url(#gV)" opacity="0.97"/>
+<rect x="444.8" y="3.0" width="5.7" height="24.0" rx="2.8" fill="url(#gV)" opacity="0.96"/>
+<rect x="456.2" y="6.6" width="5.7" height="16.7" rx="2.8" fill="url(#gV)" opacity="0.95"/>
+<rect x="467.5" y="5.3" width="5.7" height="19.5" rx="2.8" fill="url(#gV)" opacity="0.94"/>
+<rect x="478.8" y="6.6" width="5.7" height="16.8" rx="2.8" fill="url(#gV)" opacity="0.93"/>
+<rect x="490.2" y="4.1" width="5.7" height="21.7" rx="2.8" fill="url(#gV)" opacity="0.92"/>
+<rect x="501.5" y="3.2" width="5.7" height="23.7" rx="2.8" fill="url(#gV)" opacity="0.91"/>
+<rect x="512.8" y="6.7" width="5.7" height="16.6" rx="2.8" fill="url(#gV)" opacity="0.90"/>
+<rect x="524.2" y="6.5" width="5.7" height="17.1" rx="2.8" fill="url(#gV)" opacity="0.88"/>
+<rect x="535.5" y="4.4" width="5.7" height="21.2" rx="2.8" fill="url(#gV)" opacity="0.87"/>
+<rect x="546.8" y="5.4" width="5.7" height="19.1" rx="2.8" fill="url(#gV)" opacity="0.85"/>
+<rect x="558.2" y="5.5" width="5.7" height="19.1" rx="2.8" fill="url(#gV)" opacity="0.83"/>
+<rect x="569.5" y="7.7" width="5.7" height="14.6" rx="2.8" fill="url(#gV)" opacity="0.81"/>
+<rect x="580.8" y="5.0" width="5.7" height="20.1" rx="2.8" fill="url(#gV)" opacity="0.79"/>
+<rect x="592.2" y="5.7" width="5.7" height="18.5" rx="2.8" fill="url(#gV)" opacity="0.77"/>
+<rect x="603.5" y="6.5" width="5.7" height="17.0" rx="2.8" fill="url(#gV)" opacity="0.75"/>
+<rect x="614.8" y="10.1" width="5.7" height="9.9" rx="2.8" fill="url(#gV)" opacity="0.72"/>
+<rect x="626.2" y="7.6" width="5.7" height="14.9" rx="2.8" fill="url(#gV)" opacity="0.70"/>
+<rect x="637.5" y="9.5" width="5.7" height="11.0" rx="2.8" fill="url(#gV)" opacity="0.67"/>
+<rect x="648.8" y="10.4" width="5.7" height="9.2" rx="2.8" fill="url(#gV)" opacity="0.63"/>
+<rect x="660.2" y="11.0" width="5.7" height="8.0" rx="2.8" fill="url(#gV)" opacity="0.59"/>
+<rect x="671.5" y="12.0" width="5.7" height="6.0" rx="2.8" fill="url(#gV)" opacity="0.50"/></g>
+</svg>
